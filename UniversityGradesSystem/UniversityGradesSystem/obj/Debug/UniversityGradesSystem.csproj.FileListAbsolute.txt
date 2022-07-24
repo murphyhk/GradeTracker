@@ -1,0 +1,14 @@
+C:\Users\murph\OneDrive\Desktop\UniversityGradesSystem\UniversityGradesSystem\bin\Debug\UniversityGradesSystem.exe.config
+C:\Users\murph\OneDrive\Desktop\UniversityGradesSystem\UniversityGradesSystem\bin\Debug\UniversityGradesSystem.exe
+C:\Users\murph\OneDrive\Desktop\UniversityGradesSystem\UniversityGradesSystem\bin\Debug\UniversityGradesSystem.pdb
+C:\Users\murph\OneDrive\Desktop\UniversityGradesSystem\UniversityGradesSystem\obj\Debug\UniversityGradesSystem.csproj.AssemblyReference.cache
+C:\Users\murph\OneDrive\Desktop\UniversityGradesSystem\UniversityGradesSystem\obj\Debug\UniversityGradesSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\murph\OneDrive\Desktop\UniversityGradesSystem\UniversityGradesSystem\obj\Debug\UniversityGradesSystem.Login.resources
+C:\Users\murph\OneDrive\Desktop\UniversityGradesSystem\UniversityGradesSystem\obj\Debug\UniversityGradesSystem.Properties.Resources.resources
+C:\Users\murph\OneDrive\Desktop\UniversityGradesSystem\UniversityGradesSystem\obj\Debug\UniversityGradesSystem.csproj.GenerateResource.cache
+C:\Users\murph\OneDrive\Desktop\UniversityGradesSystem\UniversityGradesSystem\obj\Debug\UniversityGradesSystem.csproj.CoreCompileInputs.cache
+C:\Users\murph\OneDrive\Desktop\UniversityGradesSystem\UniversityGradesSystem\obj\Debug\UniversityGradesSystem.exe
+C:\Users\murph\OneDrive\Desktop\UniversityGradesSystem\UniversityGradesSystem\obj\Debug\UniversityGradesSystem.pdb
+C:\Users\murph\OneDrive\Desktop\UniversityGradesSystem\UniversityGradesSystem\obj\Debug\UniversityGradesSystem.HomePage.resources
+C:\Users\murph\OneDrive\Desktop\UniversityGradesSystem\UniversityGradesSystem\obj\Debug\UniversityGradesSystem.Grades.resources
+C:\Users\murph\OneDrive\Desktop\UniversityGradesSystem\UniversityGradesSystem\obj\Debug\UniversityGradesSystem.UpdatePage.resources
